@@ -7,7 +7,7 @@ Notebooks élèves des séances 1, 2 et 3 du cours de modélisation (IFPEN), ave
 | `seance1_eleve.ipynb` | Séance 1 : demande électrique des bureaux, aujourd'hui et en 2040 |
 | `seance2_eleve.ipynb` | Séance 2 : production solaire, prix, facture et niveau de solaire des bureaux en 2040 |
 | `seance3_eleve.ipynb` | Séance 3 : dimensionnement du solaire et de la batterie par optimisation linéaire |
-| `seance3_envoie.ipynb` | Séance 3, version à rendre : modèle linéaire corrigé, émissions de CO2 et indicateurs à compléter pour le rapport |
+| `seance3_envoie/` | Séance 3, version à rendre : dossier autonome (notebook, données, README), seul dossier téléchargé par son notebook sur Colab |
 | `modele_lineaire.py` | Graphique d'une semaine de résultats, utilisé par la séance 3 |
 | `data/lpi/` | Fichiers transmis par LPI |
 | `data/interne/` | Données du modélisateur (températures, PV, prix, CO2, PAC) |
